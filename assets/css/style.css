@@ -67,7 +67,7 @@ li > h3{
 .flex-cont2{
     display: flex;
     align-items: center;
-    justify-content:space-between;
+    justify-content:space-around;
     width: 30%;
     padding: 3%;
 }
@@ -137,4 +137,7 @@ li > h3{
     text-align: center;
 }
 
+i{
+    color: rgb(148, 145, 145);
+}
 
